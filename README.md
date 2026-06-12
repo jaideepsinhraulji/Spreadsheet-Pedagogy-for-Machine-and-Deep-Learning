@@ -8,7 +8,7 @@ This repository hosts interactive, spreadsheet-based implementations of classic 
 
 ### 1. Naive Bayes Classifier (`Naive_Bayes_Classifier_Car_Stolen.xlsx`)
 * **Objective:** Predict whether a vehicle will be stolen based on categorical features: `Color`, `Type`, and `Origin`.
-* **Pedagogical Core:** Demonstrates explicit Frequency Mapping, Likelihood Calculations ($P(\text{Feature} \mid \text{Class})$), and the application of the **Bayes Chain Rule** for final posterior determination.
+* **Pedagogical Core:** Demonstrates explicit Frequency Mapping, Likelihood Calculations, and the application of the **Bayes Chain Rule** for final posterior determination.
 
 ## 🚀 How to Use These Files
 Because these are interactive spreadsheets containing formulas, they cannot be fully previewed directly inside the GitHub browser interface. 
